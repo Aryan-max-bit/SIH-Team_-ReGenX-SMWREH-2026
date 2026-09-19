@@ -466,4 +466,12 @@ work together to support circular water management.
 
 ---
 
-![AQUA-MINE Dashboard](dashboard.png)
+## 🖼️ Project Showcase
+
+### 📊 Live Dashboard
+
+![AQUA-MINE Dashboard](assets/dashboard.png)
+
+### ⚙️ SMWREH Hardware Prototype
+
+![SMWREH Hardware Prototype](assets/hardware-prototype.jpeg)
