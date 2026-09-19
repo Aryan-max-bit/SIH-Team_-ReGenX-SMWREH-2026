@@ -13,11 +13,11 @@ https://minewateraffectedsihdashboard.netlify.app/
 
 🎥 Idea Demo Video
 
-▶️ Watch the SMWREH Idea Demo on YouTube
+https://youtu.be/_JOYUxP4N-4?si=U-YT9berG47gxxGW
 
 🧩 Hardware Animation
 
-🔗 Explore the SMWREH Hardware Animation
+https://ai.studio/apps/fdac3cd5-0ee1-44f5-96e7-9cf5365ac632
 
 This interactive animation presents the proposed hardware concept and system operation.
 
