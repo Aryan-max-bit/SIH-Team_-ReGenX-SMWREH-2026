@@ -463,3 +463,19 @@ Team ReGenX.
 To create a smarter and more sustainable mine-water ecosystem where
 water quality, treatment demand, and renewable-energy availability
 work together to support circular water management.
+
+---
+
+## 🖼️ Project Showcase
+
+### 📊 Live Dashboard
+
+![AQUA-MINE Dashboard](dashboard.png)
+
+Our interactive dashboard for real-time mine-water quality monitoring and treatment management.
+
+### ⚙️ SMWREH Hardware Prototype
+
+![SMWREH Hardware Prototype](hardware-prototype.jpeg)
+
+Our proposed modular hardware system for mine-water treatment, chromium removal, and renewable-energy integration.
