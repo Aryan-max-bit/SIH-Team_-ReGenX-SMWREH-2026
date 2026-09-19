@@ -9,7 +9,7 @@ renewable-energy-aware operation.
 
 🌐 Live Website
 
-🔗 Visit the SMWREH Website
+https://minewateraffectedsihdashboard.netlify.app/
 
 🎥 Idea Demo Video
 
