@@ -466,4 +466,4 @@ work together to support circular water management.
 
 ---
 
-![Dashboard](assets/dashbaord.png)
+![AQUA-MINE Dashboard](dashboard.png)
