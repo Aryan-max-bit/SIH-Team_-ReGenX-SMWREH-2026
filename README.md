@@ -1,3 +1,16 @@
+## 🖼️ Project Showcase
+
+### 📊 Live Dashboard
+
+![AQUA-MINE Dashboard](assets/dashboard.png)
+
+### ⚙️ SMWREH Hardware Prototype
+
+![SMWREH Hardware Prototype](assets/hardware-prototype.jpeg)
+
+
+
+
 🌊 SMWREH 2026 | Team ReGenX
 
 Smart Mine Water Circularity and Renewable Energy Hub
@@ -466,12 +479,4 @@ work together to support circular water management.
 
 ---
 
-## 🖼️ Project Showcase
 
-### 📊 Live Dashboard
-
-![AQUA-MINE Dashboard](assets/dashboard.png)
-
-### ⚙️ SMWREH Hardware Prototype
-
-![SMWREH Hardware Prototype](assets/hardware-prototype.jpeg)
